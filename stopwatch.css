@@ -1,0 +1,17 @@
+button {
+    background-color:rosybrown ;
+    color: antiquewhite;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-radius: 25%;
+    border-width: 7px;
+    border-color: blanchedalmond;
+}
+body{
+    background-color: bisque;
+    text-align: center;
+}
+
+
+button:hover{
+background-color:#e18b22;
+}
