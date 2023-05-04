@@ -19,4 +19,5 @@ background-color:#e18b22;
 button:disabled{
     background-color: grey;
     cursor: not-allowed;
+    font-style: oblique;
 }
